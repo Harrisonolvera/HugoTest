@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title> on Mi primer sitio en Hugo </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/</link>
+    <language>es</language>
+    
+    
+    <updated>Tue, 18 Aug 2015 12:12:33 CDT</updated>
+    
+    <item>
+      <title>Inicio</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Tue, 18 Aug 2015 12:12:33 CDT</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>&lt;p&gt;Este es el contenido de un solo archivo nombrado first.md&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acerca</title>
+      <link>http://localhost:1313/post/about/</link>
+      <pubDate>Tue, 18 Aug 2015 10:44:00 CDT</pubDate>
+      
+      <guid>http://localhost:1313/post/about/</guid>
+      <description>&lt;p&gt;Primer post realizado desde VIM en la terminal&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bienvenido</title>
+      <link>http://localhost:1313/post/welcome/</link>
+      <pubDate>Tue, 18 Aug 2015 10:43:40 CDT</pubDate>
+      
+      <guid>http://localhost:1313/post/welcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

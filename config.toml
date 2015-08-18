@@ -1,0 +1,4 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "es"
+title = "Mi primer sitio en Hugo"
+theme = "hugo-uno"
